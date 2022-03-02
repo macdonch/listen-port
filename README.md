@@ -1,7 +1,7 @@
-# listen-port-powershell
+# listen-port
 This  powershell script creates a temporary tcp listener on a windows system for a given ipaddress and port. It can be used in conjuction with the 'Port Query' utility to test firewall rules.
 
-It is a modifed version of a script found at https://gallery.technet.microsoft.com/scriptcenter/Listen-Port-Powershell-8deb99e4#content
+It is a modifed version of a script that was found at https://gallery.technet.microsoft.com/scriptcenter/Listen-Port-Powershell-8deb99e4#content
 
 On windows systems, listeners can be displayed using 'netstat -a'
 
